@@ -95,5 +95,9 @@
 ![image](https://github.com/Leozyc-waseda/Accuracy_Precision_Recall_-/blob/master/image/5.png)
 
 
+召回率(Recall)的适用场景：
+在真实值为正，而未被成功预测为正(FN)的成本很高，因此非常看重真实为正样本被正确预测的比例。比如在流行病的案例中，如果真实为正而未被正确预测，即本身患病而被判断为不患病，那么对于社会公共安全造成极大危害，后果严重，所以这里会很看重召回率。
+
+
 
 
